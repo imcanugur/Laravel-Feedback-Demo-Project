@@ -31,13 +31,13 @@ Postman Download
 ### Run
 Copy and paste the links below into Postman
 
-#### All-Feedback ( Method = GET )
+#### All-Feedback (Method = GET)
 > http://localhost:8000/api/all-feedback
 
 #### Show-Feedback (id = 1, Method = GET)
 > http://localhost:8000/api/feedback/1
 
-#### Add-Feedback ( Method = POST )
+#### Add-Feedback (Method = POST)
 > http://localhost:8000/api/feedback/?name=denemeapi3&mail=denemeapi3@gmail.com&message=Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum voluptatum minima est sapiente, modi iste id corporis nesciunt sint rem ipsa quod corrupti, natus quis repudiandae, unde itaque voluptates? Quae.
 
 #### Update-Feedback (id = 50, Method = PUT)
